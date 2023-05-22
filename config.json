@@ -1,0 +1,7 @@
+{
+    "red":"./data/winequality-red.csv",
+    "white":"./data/winequality-white.csv",
+    "total":"./data/winequality-total.csv",
+    "sep":";",
+    "bad_wine_upper_bound":5
+}
