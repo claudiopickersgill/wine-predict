@@ -5,6 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import f1_score
 
+# na função base dá pra usar 'red' ou 'white'
 X, y = base('red')
 X_train_cv, X_test, y_train_cv, y_test = split(X, y)
 train(X_train_cv, y_train_cv, X_test, y_test, LogisticRegression)
