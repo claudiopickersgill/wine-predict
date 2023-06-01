@@ -1,0 +1,120 @@
+Configs: {'kernel': 'rbf'}
+========================= FOLD 0 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 80.74%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 77.81%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.34%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.82%
+        O Resultado da PRECISÃO em TREINO é: 83.00%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 81.75%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.84
+
+========================= FOLD 1 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 80.80%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 78.83%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.21%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.06%
+        O Resultado da PRECISÃO em TREINO é: 83.15%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 83.46%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.84
+
+========================= FOLD 2 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.31%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 76.02%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.21%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 86.59%
+        O Resultado da PRECISÃO em TREINO é: 83.75%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 79.30%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.83
+
+========================= FOLD 3 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.06%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 78.83%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.13%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.06%
+        O Resultado da PRECISÃO em TREINO é: 83.50%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 83.46%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.84
+
+========================= FOLD 4 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.00%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 78.06%
+        O Resultado da SENSIBILIDADE em TREINO é: 88.96%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 90.04%
+        O Resultado da PRECISÃO em TREINO é: 83.54%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 79.66%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.85
+
+========================= FOLD 5 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 80.80%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 80.36%
+        O Resultado da SENSIBILIDADE em TREINO é: 88.49%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 91.19%
+        O Resultado da PRECISÃO em TREINO é: 83.60%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 81.51%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.86
+
+========================= FOLD 6 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.54%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 75.51%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.30%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.00%
+        O Resultado da PRECISÃO em TREINO é: 83.97%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 79.50%
+        O Resultado da de F1-Score em TREINO é: 0.87
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.82
+
+========================= FOLD 7 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.37%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 75.00%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.47%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 87.69%
+        O Resultado da PRECISÃO em TREINO é: 83.66%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 77.55%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.82
+
+========================= FOLD 8 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 80.92%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 80.05%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.34%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.77%
+        O Resultado da PRECISÃO em TREINO é: 83.21%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 84.47%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.85
+
+========================= FOLD 9 ==========================
+        O Resultado da ACURÁCIA em TREINO é: 81.20%
+        O Resultado da ACURÁCIA na VALIDAÇÃO é: 77.75%
+        O Resultado da SENSIBILIDADE em TREINO é: 89.34%
+        O Resultado da SENSIBILIDADE na VALIDAÇÃO é: 85.77%
+        O Resultado da PRECISÃO em TREINO é: 83.54%
+        O Resultado da PRECISÃO na VALIDAÇÃO é: 81.68%
+        O Resultado da de F1-Score em TREINO é: 0.86
+        O Resultado da de F1-Score na VALIDAÇÃO: 0.84
+
+========================= Resultado Médio =========================
+        O resultado Médio da ACURÁCIA em TREINO é:  0.81 +-  0.0026
+        O resultado Médio da ACURÁCIA em VALIDAÇÃO é:  0.78 +-  0.017
+        O resultado Médio da SENSIBILIDADE em TREINO é:  0.89 +-  0.0027
+        O resultado Médio da SENSIBILIDADE em VALIDAÇÃO é:  0.87 +-  0.021
+        O resultado Médio da PRECISÃO em TREINO é:  0.83 +-  0.0028
+        O resultado Médio da PRECISÃO em VALIDAÇÃO é:  0.81 +-  0.021
+        O resultado Médio da F1-Score em TREINO é  0.86 +-  0.0018
+        O resultado Médio da F1-Score em VALIDAÇÃO é:  0.84 +-  0.012
+
+    ===================================================
+Meu melhor fold é: 5
+Meu resultado de F1-Score para o conjunto de TESTE é: 0.83
+O resultado Médio da ACURÁCIA em TESTE é: 77.35%
+O resultado Médio da SENSIBILIDADE em TESTE é: 85.28%
+O resultado Médio da PRECISÃO em TESTE é: 81.52%
+===================================================
+
+===================================================
